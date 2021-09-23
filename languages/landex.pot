@@ -1,0 +1,654 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Landex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-23 04:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Domain: landex"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:66
+msgid ", "
+msgstr ""
+
+#: inc/widgets/class-landexcontacts.php:221
+msgid "Add Info"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:246
+msgid "Add Social Link"
+msgstr ""
+
+#: inc/template-functions.php:57 inc/template-functions.php:71
+#: inc/template-functions.php:85
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:61
+msgid "Archive Sidebars"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:39
+msgid "Archive/Blog Settings"
+msgstr ""
+
+#: functions.php:141
+msgid "aztec"
+msgstr ""
+
+#: inc/template-functions.php:220
+msgid "Back"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:189
+msgid "Bottom Section"
+msgstr ""
+
+#: inc/customizer/landex-customizer-sanitize.php:28
+#: inc/customizer/landex-general-panel.php:93
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:296
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/landex-general-panel.php:70
+msgid "Choose a site to display your website more effectively."
+msgstr ""
+
+#: inc/customizer/landex-header-panel.php:39
+msgid "Choose Header Background Color."
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:92
+msgid "Choose layout from available layouts"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:62
+#: inc/customizer/landex-layout-panel.php:145
+#: inc/customizer/landex-layout-panel.php:197
+#: inc/customizer/landex-layout-panel.php:338
+#: inc/customizer/landex-layout-panel.php:390
+msgid "Choose sidebar from available layouts"
+msgstr ""
+
+#: inc/template-functions.php:130
+msgid "collapse child menu"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:109
+msgid "Column One"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:97
+msgid "Columns Four"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:101
+msgid "Columns Three"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:105
+msgid "Columns Two"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:48 template-parts/content.php:58
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:212
+msgid "Copyright Text"
+msgstr ""
+
+#: functions.php:136
+msgid "coral red"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:45 inc/widgets/class-landexabout.php:237
+#: inc/widgets/class-landexcontacts.php:46
+#: inc/widgets/class-landexcontacts.php:212
+msgid "Delete"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:196
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/class-landexcontacts.php:22
+msgid "Display Contact information"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:20
+msgid "Display Footer Short About Info"
+msgstr ""
+
+#: inc/widgets/class-landexrecentpost.php:21
+msgid "Display Recent Posts"
+msgstr ""
+
+#: functions.php:151
+msgid "dove gray"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:87
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:101
+msgid "Enter read more button text for archive page."
+msgstr ""
+
+#: inc/template-functions.php:129
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:64
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:174
+msgid "Footer Anchor Color"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:132
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:279
+msgid "Footer Bottom Anchor Color"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:239
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:259
+msgid "Footer Bottom Text Color"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:25
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:153
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/template-functions.php:83
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:91
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:61
+msgid "Footer Widget Section"
+msgstr ""
+
+#. Name of the template
+msgid "Full Template (without breadcrumb)"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width (without sidebar)"
+msgstr ""
+
+#: inc/customizer/landex-general-panel.php:92
+msgid "FullWidth Layout"
+msgstr ""
+
+#: inc/customizer/landex-customizer-sanitize.php:27
+msgid "Fullwidth Layout"
+msgstr ""
+
+#: inc/customizer/landex-general-panel.php:55
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/landex-general-panel.php:38
+#: inc/customizer/landex-header-panel.php:38
+#: inc/customizer/landex-header-panel.php:59
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/landex-header-panel.php:27
+msgid "Header Background Image"
+msgstr ""
+
+#: inc/customizer/landex-header-panel.php:22
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/landex-customizer-sanitize.php:45
+#: inc/customizer/landex-footer-panel.php:66
+#: inc/customizer/landex-layout-panel.php:241
+#: inc/customizer/landex-layout-panel.php:434
+msgid "Hide"
+msgstr ""
+
+#. URI of the theme
+msgid "https://mthemeus.com/demos/wp/landex"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://profiles.wordpress.org/msakib"
+msgstr ""
+
+#: inc/widgets/class-landexcontacts.php:176
+#: inc/widgets/class-landexcontacts.php:209
+#: inc/widgets/class-landexcontacts.php:210
+msgid "Info Title"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:176
+msgid "Insert Icon"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:44 inc/widgets/class-landexabout.php:210
+#: inc/widgets/class-landexcontacts.php:45
+#: inc/widgets/class-landexcontacts.php:187
+msgid "Item"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#. Name of the theme
+msgid "Landex"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:203
+msgid "landex"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/class-landexabout.php:19
+msgid "Landex About"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/class-landexcontacts.php:21
+msgid "Landex Contacts"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Landex is a smart &amp; dynamic blog theme for personal use. Fully "
+"responsive design displays beautifully across desktop, mobile, and all "
+"devices. Easy installation allows you to start post blogs immediately after "
+"the activation."
+msgstr ""
+
+#. Base ID
+#: inc/widgets/class-landexrecentpost.php:20
+msgid "Landex Posts"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:27
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:66
+#: inc/customizer/landex-layout-panel.php:149
+#: inc/customizer/landex-layout-panel.php:201
+#: inc/customizer/landex-layout-panel.php:342
+#: inc/customizer/landex-layout-panel.php:394
+msgid "Left Sidebar"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:68
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: functions.php:156
+msgid "manatee"
+msgstr ""
+
+#: inc/hooks/general-hooks.php:107
+msgid "Menu"
+msgstr ""
+
+#: inc/template-functions.php:213
+msgid "More"
+msgstr ""
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#. Author of the theme
+msgid "msakib"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Muli, translate this to 'off'. Do not translate into your own language.
+#: inc/template-functions.php:278
+msgctxt "Mulish font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:74
+#: inc/customizer/landex-layout-panel.php:157
+#: inc/customizer/landex-layout-panel.php:209
+#: inc/customizer/landex-layout-panel.php:350
+#: inc/customizer/landex-layout-panel.php:402
+msgid "No Sidebar"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:18 inc/class-landex-breadcrumb.php:32
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:122
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:144
+msgid "Page Sidebars"
+msgstr ""
+
+#: template-parts/content-page.php:62 template-parts/content.php:72
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/widgets/class-landexrecentpost.php:118
+msgid "Post Per Page:"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:196
+msgid "Post Sidebars"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:72
+msgid "Posted in"
+msgstr ""
+
+#: functions.php:63
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:315
+msgid "Product Page Settings"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:337
+msgid "Product Page Sidebars"
+msgstr ""
+
+#: inc/template-functions.php:69
+msgid "Products Sidebar"
+msgstr ""
+
+#. %1$s is Author name wrapped, %2$s is Date
+#: inc/class-landex-breadcrumb.php:104
+#, php-format
+msgid "Published by %1$s on %2$s"
+msgstr ""
+
+#: inc/template-tags.php:51 inc/customizer/landex-layout-panel.php:91
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:100
+msgid "Read More Text"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/widgets/class-landexrecentpost.php:110
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:236
+msgid "Related Post Option"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:265
+msgid "Related Post Section Title"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:256 inc/hooks/single-hooks.php:13
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:429
+msgid "Related Product Option"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:43 inc/widgets/class-landexcontacts.php:44
+msgid "Remove Image"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:186
+#: inc/widgets/class-landexcontacts.php:201
+msgid "Remove image"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:70
+#: inc/customizer/landex-layout-panel.php:153
+#: inc/customizer/landex-layout-panel.php:205
+#: inc/customizer/landex-layout-panel.php:346
+#: inc/customizer/landex-layout-panel.php:398
+msgid "Right Sidebar"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Muli, translate this to 'off'. Do not translate into your own language.
+#: inc/template-functions.php:283
+msgctxt "Saira Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#. search result
+#: inc/class-landex-breadcrumb.php:46
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:162
+msgid "Search themify icon"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:40 inc/widgets/class-landexabout.php:226
+#: inc/widgets/class-landexcontacts.php:41
+#: inc/widgets/class-landexcontacts.php:199
+msgid "Select an Icon"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:42 inc/widgets/class-landexcontacts.php:43
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:292
+msgid "Select Related Post Type"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:294
+msgid "Select whish taxonomy you want to fetch related post"
+msgstr ""
+
+#: functions.php:131
+msgid "shark"
+msgstr ""
+
+#: inc/customizer/landex-customizer-sanitize.php:44
+#: inc/customizer/landex-footer-panel.php:65
+#: inc/customizer/landex-layout-panel.php:240
+#: inc/customizer/landex-layout-panel.php:433
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:62
+msgid "Show/Hide option for footer widget area section."
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:237
+msgid "Show/Hide option for related posts section at single post page."
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:430
+msgid "Show/Hide option for related product section at single product page."
+msgstr ""
+
+#: inc/template-functions.php:55
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:174
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:367
+msgid "Single Product Settings"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:389
+msgid "Single Product Sidebars"
+msgstr ""
+
+#: inc/customizer/landex-general-panel.php:89
+msgid "Site Layout"
+msgstr ""
+
+#: inc/hooks/general-hooks.php:15
+msgid "Skip to content"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:199 inc/widgets/class-landexabout.php:235
+msgid "Social Page Url"
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/widgets/class-landexrecentpost.php:76
+msgid "Sorry, no posts found."
+msgstr ""
+
+#: inc/hooks/single-hooks.php:40
+msgid "Sorry, no similar posts found."
+msgstr ""
+
+#: inc/widgets/class-landexcontacts.php:176
+msgid "Sub Title"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/landex-layout-panel.php:297
+msgid "Tag"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:75
+msgid "Tagged"
+msgstr ""
+
+#: inc/widgets/class-landexcontacts.php:173
+#: inc/widgets/class-landexrecentpost.php:114
+msgid "Title:"
+msgstr ""
+
+#: inc/hooks/general-hooks.php:123
+msgid "Top Menu"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:48
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:184
+msgid "Upload image"
+msgstr ""
+
+#: inc/widgets/class-landexabout.php:41 inc/widgets/class-landexcontacts.php:42
+msgid "Upload Thumbnail"
+msgstr ""
+
+#: functions.php:146
+msgid "very light gray"
+msgstr ""
+
+#: inc/customizer/landex-general-panel.php:69
+msgid "Website Layout"
+msgstr ""
+
+#: inc/customizer/landex-footer-panel.php:37
+msgid "Widget Area"
+msgstr ""
